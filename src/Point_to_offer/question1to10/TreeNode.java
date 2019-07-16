@@ -5,9 +5,9 @@ package Point_to_offer.question1to10;
  * @date 2019/7/7 22:51
  */
 public class TreeNode {
-    int val;
-    TreeNode left;
-    TreeNode right;
+    public int val;
+    public TreeNode left;
+    public TreeNode right;
     TreeNode (int x){
         val = x;
     }
