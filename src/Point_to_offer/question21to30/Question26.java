@@ -22,6 +22,7 @@ public class Question26 {
         //复制random
         head = pHead;
         while (head != null){
+            //三目运算符
             head.next.random = head.random==null?null:head.random.next;
             head = head.next.next;
         }
@@ -32,6 +33,7 @@ public class Question26 {
             RandomListNode node = head.next;
             head.next = node.next;
             node.next = node.next == null?null:node.next.next;
+
             head = head.next;
         }
         return chead;

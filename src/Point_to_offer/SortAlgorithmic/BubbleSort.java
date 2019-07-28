@@ -24,7 +24,7 @@ public class BubbleSort {
      */
     public static int[]  bullesort(int[] array) {
         boolean flag = true;
-        //若flag为false表面剩下的序列是有序的
+        //若flag为false表明剩下的序列是有序的
         for (int i=0;i<array.length&&flag;i++){
             flag = false;
             for (int j=array.length-1;j>0;j--){
@@ -32,7 +32,7 @@ public class BubbleSort {
                     int temp = array[j];
                     array[j] = array[j-1];
                     array[j-1] = temp;
-                    flag = true;//表面有数据交换
+                    flag = true;//表明有数据交换
                 }
             }
         }
