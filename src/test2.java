@@ -1,6 +1,7 @@
 import java.util.Arrays;
 import java.util.Iterator;
 
+
 /**
  * @author simba@onlying.cn
  * @date 2019/6/24 0:25
@@ -21,6 +22,18 @@ public class test2 {
         int[][] matrix = {{1,2,3,4},{5,6,7,8},{9,10,11,12},{13,14,15,16}};
         System.out.println(matrix.length);
         System.out.println(Arrays.toString(matrix[0]));
+        int num = 2147483647;
+        num += 2L;
+        System.out.println(num);
+        String string = "";
+        for (int i=0;i<5;i++){
+            string += i;
+        }
+        System.out.println(string);
+//        int num = 50;
+//        num = num++ *2;
+//        System.out.println(num);
+        System.out.println(Math.round(-15.56));
     }
 
 
