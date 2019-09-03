@@ -34,6 +34,7 @@ public class test2 {
 //        num = num++ *2;
 //        System.out.println(num);
         System.out.println(Math.round(-15.56));
+        String s = "nifhadsfdasdfa";
     }
 
 
