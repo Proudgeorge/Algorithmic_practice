@@ -1,0 +1,1141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/Point_to_offer/question31to40/Question36.java" line="24" />
+    <bookmark url="file://$PROJECT_DIR$/../miaosha/src/main/java/com/miaoshaproject/controller/OrderController.java" description="OrderModel orderModel = orderService.createOrder(u..." line="42" />
+    <bookmark url="file://$PROJECT_DIR$/../miaosha/src/main/java/com/miaoshaproject/response/CommonReturnType.java" description="return CommonReturnType.create(result,&quot;success&quot;);" line="16" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="484b80fd-c28a-4680-be44-d5f1bc739c34" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/Graph.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/GreekTimeTest1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/Heap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/META-INF/Algorithmic_practice.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/Point_to_offer/QuestionSummary/YouZan/question1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/Point_to_offer/QuestionSummary/solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/Point_to_offer/SortAlgorithmic/BubbleSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/Point_to_offer/SortAlgorithmic/InsertAlgorithmic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/Point_to_offer/SortAlgorithmic/MergeSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/Point_to_offer/SortAlgorithmic/QuickSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/Point_to_offer/question11to20/Question11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/Point_to_offer/question11to20/Question12.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/Point_to_offer/question11to20/Question13.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/Point_to_offer/question11to20/Question14.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/Point_to_offer/question11to20/Question15.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/Point_to_offer/question11to20/Question16.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/Point_to_offer/question11to20/Question17.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/Point_to_offer/question11to20/Question18.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/Point_to_offer/question11to20/Question19.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/Point_to_offer/question11to20/Question20.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/Point_to_offer/question1to10/ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/Point_to_offer/question1to10/Question10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/Point_to_offer/question1to10/Question1To10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/Point_to_offer/question1to10/Question6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/Point_to_offer/question1to10/Question7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/Point_to_offer/question1to10/Question8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/Point_to_offer/question1to10/Question9.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/Point_to_offer/question1to10/Question9_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/Point_to_offer/question1to10/Question9_3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/Point_to_offer/question1to10/TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/Point_to_offer/question21to30/Question21.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/Point_to_offer/question21to30/Question22.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/Point_to_offer/question21to30/Question23.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/Point_to_offer/question21to30/Question24.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/Point_to_offer/question21to30/Question25.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/Point_to_offer/question21to30/Question26.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/Point_to_offer/question21to30/Question27.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/Point_to_offer/question21to30/Question28.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/Point_to_offer/question21to30/Question29.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/Point_to_offer/question21to30/Question30$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/Point_to_offer/question21to30/Question30.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/Point_to_offer/question21to30/RandomListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/Point_to_offer/question31to40/Question31.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/Point_to_offer/question31to40/Question32.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/Point_to_offer/question31to40/Question33$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/Point_to_offer/question31to40/Question33.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/Point_to_offer/question31to40/Question34.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/Point_to_offer/question31to40/Question35.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/Point_to_offer/question31to40/Question36.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/Point_to_offer/question31to40/Question37.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/Point_to_offer/question31to40/Question38.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/Point_to_offer/question31to40/Question39.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/Point_to_offer/question31to40/Question39_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/Point_to_offer/question31to40/Question40.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/Point_to_offer/question41to50/Question41.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/Point_to_offer/question41to50/Question41_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/Point_to_offer/question41to50/Question42.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/Point_to_offer/question41to50/Question42_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/Point_to_offer/question41to50/Question44.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/Point_to_offer/question41to50/Question45.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/Point_to_offer/question41to50/Question46.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/Point_to_offer/question41to50/Question47.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/Point_to_offer/question41to50/Question49.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/Point_to_offer/question51to60/Question51.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/Point_to_offer/question51to60/Question52.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/TestPreparePractice/Main1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/TestPreparePractice/Main2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/TestPreparePractice/Main3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/Thread/ThreadTest1$Dec.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/Thread/ThreadTest1$Inc.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/Thread/ThreadTest1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/_Nanme.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/question_conclude/Question1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/question_conclude/Question2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/question_conclude/math.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/random_result.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/result/Result1_10010.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/result/Result1_10020.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/result/Result1_10030.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/result/Result1_10040.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/result/Result1_10050.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/result/Result2_10010.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/result/Result2_10020.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/result/Result2_10030.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/result/Result2_10040.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/result/Result2_10050.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/sortAlgorithmic/BubbleSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/sortAlgorithmic/InsertSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/sortAlgorithmic/QuickSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/sortAlgorithmic/SelectSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/sortAlgorithmic/ShellSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/test1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/test2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/tree/BinarySearchThree$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/tree/BinarySearchThree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/tree/DepthOfTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/tree/LevelOrder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/xx.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GreekTimeTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GreekTimeTest1.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sortAlgorithmic/QuickSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="900">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/GreekTimeTest1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="457">
+              <caret line="83" column="30" selection-start-line="83" selection-start-column="30" selection-end-line="83" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Thread/MySafeThread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="822">
+              <caret line="37" column="25" selection-start-line="37" selection-start-column="25" selection-end-line="37" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Thread/FirstThreadTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="625">
+              <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Thread/RunnableThreadTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Thread/CallableThreadTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="325">
+              <caret line="13" column="55" lean-forward="true" selection-start-line="13" selection-start-column="55" selection-end-line="13" selection-end-column="55" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/RegExpTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Thread/ThreadTest1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="950">
+              <caret line="38" column="34" lean-forward="true" selection-start-line="38" selection-start-column="34" selection-end-line="38" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>double</find>
+      <find>getAsint</find>
+      <find>Integer</find>
+      <find>listnode</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>getAsInt</replace>
+      <replace>int</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Point_to_offer/question21to30/Question28.java" />
+        <option value="$PROJECT_DIR$/src/Point_to_offer/question21to30/Question29.java" />
+        <option value="$PROJECT_DIR$/src/Point_to_offer/question21to30/Question30.java" />
+        <option value="$PROJECT_DIR$/src/Point_to_offer/question31to40/Question31.java" />
+        <option value="$PROJECT_DIR$/src/Point_to_offer/question31to40/Question32.java" />
+        <option value="$PROJECT_DIR$/src/Point_to_offer/question31to40/Question33.java" />
+        <option value="$PROJECT_DIR$/src/Point_to_offer/question31to40/Question34.java" />
+        <option value="$PROJECT_DIR$/src/Point_to_offer/question31to40/Question35.java" />
+        <option value="$PROJECT_DIR$/src/Point_to_offer/question31to40/Question36.java" />
+        <option value="$PROJECT_DIR$/src/Point_to_offer/question31to40/Question37.java" />
+        <option value="$PROJECT_DIR$/src/Point_to_offer/SortAlgorithmic/BubbleSort.java" />
+        <option value="$PROJECT_DIR$/src/Point_to_offer/question31to40/Question38.java" />
+        <option value="$PROJECT_DIR$/src/Point_to_offer/question31to40/Question39.java" />
+        <option value="$PROJECT_DIR$/src/Point_to_offer/question31to40/Question39_1.java" />
+        <option value="$PROJECT_DIR$/src/Point_to_offer/question31to40/Question40.java" />
+        <option value="$PROJECT_DIR$/src/Point_to_offer/question41to50/Question41.java" />
+        <option value="$PROJECT_DIR$/src/Point_to_offer/question41to50/Question41_1.java" />
+        <option value="$PROJECT_DIR$/src/Point_to_offer/question41to50/Question42_1.java" />
+        <option value="$PROJECT_DIR$/src/Point_to_offer/question41to50/Question42.java" />
+        <option value="$PROJECT_DIR$/src/Point_to_offer/question41to50/Question44.java" />
+        <option value="$PROJECT_DIR$/src/Point_to_offer/question41to50/Question45.java" />
+        <option value="$PROJECT_DIR$/src/Point_to_offer/question41to50/Question46.java" />
+        <option value="$PROJECT_DIR$/src/Point_to_offer/question41to50/Question47.java" />
+        <option value="$PROJECT_DIR$/src/Point_to_offer/question41to50/Question49.java" />
+        <option value="$PROJECT_DIR$/src/Point_to_offer/QuestionSummary/YouZan/question1.java" />
+        <option value="$PROJECT_DIR$/src/Point_to_offer/question51to60/Question51.java" />
+        <option value="$PROJECT_DIR$/src/Point_to_offer/question51to60/Question52.java" />
+        <option value="$PROJECT_DIR$/src/test3.java" />
+        <option value="$PROJECT_DIR$/src/_Nanme.java" />
+        <option value="$PROJECT_DIR$/src/Thread/ThreadTest1.java" />
+        <option value="$PROJECT_DIR$/src/Point_to_offer/QuestionSummary/solution.java" />
+        <option value="$PROJECT_DIR$/src/Point_to_offer/question1to10/Question9_3.java" />
+        <option value="$PROJECT_DIR$/src/test2.java" />
+        <option value="$PROJECT_DIR$/src/TestPreparePractice/Main.java" />
+        <option value="$PROJECT_DIR$/src/TestPreparePractice/Main2.java" />
+        <option value="$PROJECT_DIR$/src/TestPreparePractice/Main3.java" />
+        <option value="$PROJECT_DIR$/src/tree/DepthOfTree.java" />
+        <option value="$PROJECT_DIR$/src/tree/LevelOrder.java" />
+        <option value="$PROJECT_DIR$/src/Heap.java" />
+        <option value="$PROJECT_DIR$/src/Graph.java" />
+        <option value="$PROJECT_DIR$/src/BubbleSort.java" />
+        <option value="$PROJECT_DIR$/src/SelectSort.java" />
+        <option value="$PROJECT_DIR$/src/InsertSort.java" />
+        <option value="$PROJECT_DIR$/src/sortAlgorithmic/QuickSort.java" />
+        <option value="$PROJECT_DIR$/src/trafficStatistics/TrafficStatistics.java" />
+        <option value="$PROJECT_DIR$/src/Thread/MySafeThread.java" />
+        <option value="$PROJECT_DIR$/src/RegExpTest.java" />
+        <option value="$PROJECT_DIR$/src/GreekTimeTest1.java" />
+        <option value="$PROJECT_DIR$/src/Thread/FirstThreadTest.java" />
+        <option value="$PROJECT_DIR$/src/Thread/RunnableThreadTest.java" />
+        <option value="$PROJECT_DIR$/src/Thread/CallableThreadTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="F:/Maven/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="F:\Maven\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1096" />
+    <option name="height" value="1936" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Algorithmic_practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithmic_practice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithmic_practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithmic_practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithmic_practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithmic_practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="question_conclude" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithmic_practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithmic_practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Thread" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\JavaWorkspace3\Algorithmic_practice\src\result" />
+      <recent name="F:\JavaWorkspace3\Algorithmic_practice\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ThreadTest1">
+    <configuration name="CallableThreadTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Thread.CallableThreadTest" />
+      <module name="Algorithmic_practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstThreadTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Thread.FirstThreadTest" />
+      <module name="Algorithmic_practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunnableThreadTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Thread.RunnableThreadTest" />
+      <module name="Algorithmic_practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Thread.ThreadTest1" />
+      <module name="Algorithmic_practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GreekTimeTest1.demo4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Algorithmic_practice" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GreekTimeTest1" />
+      <option name="METHOD_NAME" value="demo4" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ThreadTest1" />
+        <item itemvalue="Application.CallableThreadTest" />
+        <item itemvalue="Application.RunnableThreadTest" />
+        <item itemvalue="Application.FirstThreadTest" />
+        <item itemvalue="JUnit.GreekTimeTest1.demo4" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="484b80fd-c28a-4680-be44-d5f1bc739c34" name="Default Changelist" comment="" />
+      <created>1559919113830</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559919113830</updated>
+      <workItem from="1559919117620" duration="11273000" />
+      <workItem from="1560235784036" duration="5219000" />
+      <workItem from="1560523910656" duration="599000" />
+      <workItem from="1561129260585" duration="16495000" />
+      <workItem from="1561304309759" duration="18330000" />
+      <workItem from="1562076805921" duration="1891000" />
+      <workItem from="1562426979524" duration="5959000" />
+      <workItem from="1562500352962" duration="67180000" />
+      <workItem from="1562810612047" duration="33908000" />
+      <workItem from="1563262740748" duration="22523000" />
+      <workItem from="1563591121232" duration="63288000" />
+      <workItem from="1565105693057" duration="43827000" />
+      <workItem from="1566216307408" duration="3232000" />
+      <workItem from="1566572706853" duration="16019000" />
+      <workItem from="1567428168261" duration="38672000" />
+    </task>
+    <task id="LOCAL-00001" summary="剑指offer Java实现 不定时更新">
+      <created>1562810711569</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1562810711569</updated>
+    </task>
+    <task id="LOCAL-00002" summary="剑指offer Java实现 不定时更新">
+      <created>1563465114973</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1563465114973</updated>
+    </task>
+    <task id="LOCAL-00003" summary="剑指offer Java实现 不定时更新">
+      <created>1564323347272</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1564323347272</updated>
+    </task>
+    <task id="LOCAL-00004" summary="剑指offer Java实现 不定时更新">
+      <created>1566216359848</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1566216359848</updated>
+    </task>
+    <task id="LOCAL-00005" summary="剑指offer Java实现 不定时更新">
+      <created>1566216501399</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1566216501399</updated>
+    </task>
+    <task id="LOCAL-00006" summary="剑指offer Java实现 不定时更新">
+      <created>1567525890942</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1567525890942</updated>
+    </task>
+    <task id="LOCAL-00007" summary="剑指offer Java实现 不定时更新">
+      <created>1567526381655</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1567526381656</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Question1_main - 2019.07.06 at 23h 54m 25s.xml">
+      <configuration name="Question1.main" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Question1_main - 2019.07.07 at 00h 07m 39s.xml">
+      <configuration name="Question1.main" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Question1_main - 2019.07.07 at 00h 07m 48s.xml">
+      <configuration name="Question1.main" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Question1To10_main - 2019.07.08 at 00h 24m 21s.xml">
+      <configuration name="Question1To10.main" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Question33_test - 2019.07.21 at 23h 56m 26s.xml">
+      <configuration name="Question33.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GreekTimeTest1_demo4 - 2019.09.04 at 10h 10m 40s.xml">
+      <configuration name="GreekTimeTest1.demo4" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GreekTimeTest1_demo4 - 2019.09.04 at 10h 43m 50s.xml">
+      <configuration name="GreekTimeTest1.demo4" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GreekTimeTest1_demo4 - 2019.09.07 at 16h 50m 00s.xml">
+      <configuration name="GreekTimeTest1.demo4" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GreekTimeTest1_demo4 - 2019.09.07 at 16h 50m 43s.xml">
+      <configuration name="GreekTimeTest1.demo4" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GreekTimeTest1_demo4 - 2019.09.07 at 22h 56m 05s.xml">
+      <configuration name="GreekTimeTest1.demo4" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="348415000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-8" width="1096" height="1936" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2104247" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2791343" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.2991121" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32963374" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32241952" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32973894" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32852387" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Database" order="5" weight="0.3291506" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="剑指offer Java实现 不定时更新" />
+    <option name="LAST_COMMIT_MESSAGE" value="剑指offer Java实现 不定时更新" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Point_to_offer/question11to20/Question12.java</url>
+          <line>51</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Point_to_offer/question11to20/Question12.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Point_to_offer/question41to50/Question42.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="19" column="19" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Point_to_offer/question41to50/Question44.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="725">
+          <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Point_to_offer/question21to30/Question29.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="25" column="34" lean-forward="true" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Point_to_offer/question41to50/Question47.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Point_to_offer/question41to50/Question46.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="15" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Point_to_offer/question41to50/Question45.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="34" column="30" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
+          <folding>
+            <element signature="e#849#850#0" expanded="true" />
+            <element signature="e#888#889#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Point_to_offer/question41to50/Question41.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Point_to_offer/question41to50/Question41_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="846">
+          <caret line="47" column="14" selection-start-line="47" selection-start-column="14" selection-end-line="47" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Point_to_offer/question41to50/Question42_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+          <folding>
+            <element signature="e#470#471#0" expanded="true" />
+            <element signature="e#510#511#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Point_to_offer/question41to50/Question49.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="26" column="44" selection-start-line="11" selection-start-column="8" selection-end-line="26" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Point_to_offer/question51to60/Question52.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test3.java" />
+    <entry file="file://$PROJECT_DIR$/src/question_conclude/Question2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Point_to_offer/QuestionSummary/YouZan/question1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1025">
+          <caret line="43" column="5" selection-start-line="21" selection-start-column="4" selection-end-line="43" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Point_to_offer/QuestionSummary/solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Point_to_offer/question1to10/Question9.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Point_to_offer/question1to10/Question9_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Point_to_offer/question1to10/Question9_3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Point_to_offer/question51to60/Question51.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/question_conclude/Question1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="875">
+          <caret line="36" column="36" selection-start-line="36" selection-start-column="36" selection-end-line="36" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestPreparePractice/Main1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestPreparePractice/Main2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestPreparePractice/Main3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tree/DepthOfTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tree/LevelOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="35" column="9" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Graph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1400">
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/random_result.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Heap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="30" column="20" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_Nanme.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tree/BinarySearchThree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="e#1944#1945#0" expanded="true" />
+            <element signature="e#1984#1985#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sortAlgorithmic/BubbleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sortAlgorithmic/SelectSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sortAlgorithmic/ShellSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sortAlgorithmic/InsertSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="24" column="72" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trafficStatistics/TrafficStatistics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#260#261#0" expanded="true" />
+            <element signature="e#321#322#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/Objects.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="57" column="26" selection-start-line="57" selection-start-column="26" selection-end-line="57" selection-end-column="26" />
+          <folding>
+            <element signature="e#1410#1411#0" expanded="true" />
+            <element signature="e#1471#1472#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RegExpTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/LinkedHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="302" selection-start-line="302" selection-end-line="302" />
+          <folding>
+            <element signature="e#8806#8807#0" expanded="true" />
+            <element signature="e#8859#8860#0" expanded="true" />
+            <element signature="e#19667#19668#0" expanded="true" />
+            <element signature="e#19695#19696#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="338" selection-start-line="338" selection-end-line="338" />
+          <folding>
+            <element signature="e#24329#24330#0" expanded="true" />
+            <element signature="e#24394#24395#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="830" selection-start-line="830" selection-end-line="830" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GreekTimeTest1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="457">
+          <caret line="83" column="30" selection-start-line="83" selection-start-column="30" selection-end-line="83" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thread/MySafeThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="822">
+          <caret line="37" column="25" selection-start-line="37" selection-start-column="25" selection-end-line="37" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thread/FirstThreadTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="625">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sortAlgorithmic/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thread/RunnableThreadTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="523">
+          <caret line="1472" selection-start-line="1472" selection-end-line="1472" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thread/CallableThreadTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="55" lean-forward="true" selection-start-line="13" selection-start-column="55" selection-end-line="13" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thread/ThreadTest1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="950">
+          <caret line="38" column="34" lean-forward="true" selection-start-line="38" selection-start-column="34" selection-end-line="38" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

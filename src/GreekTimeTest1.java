@@ -22,7 +22,6 @@ public class GreekTimeTest1 {
         hashMap.put(1, 12);
         hashMap.put(5, 23);
         hashMap.put(2, 22);
-
         for (Map.Entry e : hashMap.entrySet()) {
             System.out.println(e.getKey());
         }
@@ -77,6 +76,15 @@ public class GreekTimeTest1 {
             System.out.println(e.getKey() + ":" + e.getValue());
         }
 
+    }
+    @Test
+    public void demo4(){
+        HashMap<String,Integer> hashMap = new LinkedHashMap<>();
+        hashMap.put("和玲玲",11);
+        hashMap.put("米健腾",22);
+        for (Map.Entry e:hashMap.entrySet()){
+            System.out.println(e.getKey()+":"+e.getValue());
+        }
     }
 }
         /*
