@@ -1,7 +1,6 @@
 package Point_to_offer.question11to20;
 
-import Point_to_offer.question1to10.ListNode;
-import com.sun.xml.internal.bind.v2.model.core.ID;
+import LinkedList.ListNode;
 
 /**
  * O(1)时间删除链表节点

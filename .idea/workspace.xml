@@ -8,8 +8,13 @@
   <component name="ChangeListManager">
     <list default="true" id="484b80fd-c28a-4680-be44-d5f1bc739c34" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithmic_practice/tree/DepthOfTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithmic_practice/tree/DepthOfTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tree/DepthOfTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tree/DepthOfTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Point_to_offer/question11to20/Question13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Point_to_offer/question11to20/Question13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Point_to_offer/question11to20/Question15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Point_to_offer/question11to20/Question15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Point_to_offer/question11to20/Question16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Point_to_offer/question11to20/Question16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Point_to_offer/question11to20/Question17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Point_to_offer/question11to20/Question17.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Point_to_offer/question1to10/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Point_to_offer/question1to10/Question1To10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Point_to_offer/question1to10/Question1To10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Point_to_offer/question31to40/Question37.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Point_to_offer/question31to40/Question37.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,74 +43,14 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/IO/A1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Thread/threadPool/MyThreadPool.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1277">
-              <caret line="82" column="32" selection-start-line="82" selection-start-column="32" selection-end-line="82" selection-end-column="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1453#1454#0" expanded="true" />
-                <element signature="e#1489#1490#0" expanded="true" />
-                <element signature="e#1771#1772#0" expanded="true" />
-                <element signature="e#1823#1824#0" expanded="true" />
-                <element signature="e#1619#1620#0" expanded="true" />
-                <element signature="e#1655#1656#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/tree/DepthOfTree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="550">
-              <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/tree/LevelOrder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="700">
-              <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+            <state relative-caret-position="650">
+              <caret line="31" column="44" lean-forward="true" selection-start-line="31" selection-start-column="44" selection-end-line="31" selection-end-column="44" />
               <folding>
                 <element signature="e#389#404#0" expanded="true" />
                 <element signature="e#459#469#0" expanded="true" />
                 <element signature="e#642#651#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Point_to_offer/question1to10/TreeNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="6" selection-start-line="6" selection-end-line="13" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/tree/treeNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="827">
-              <caret line="58" selection-start-line="58" selection-end-line="58" />
-              <folding>
-                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -134,12 +79,13 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/tree/ZLevelOrder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="2" column="45" selection-start-line="2" selection-start-column="45" selection-end-line="2" selection-end-column="45" />
+            <state relative-caret-position="975">
+              <caret line="39" column="19" lean-forward="true" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
               <folding>
+                <element signature="imports" expanded="true" />
                 <element signature="e#312#327#0" expanded="true" />
                 <element signature="e#693#702#0" expanded="true" />
               </folding>
@@ -148,13 +94,55 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Thread/TestJoin.java">
+        <entry file="file://$PROJECT_DIR$/src/LinkedList/ListNode.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="275">
-              <caret line="11" column="58" selection-start-line="11" selection-start-column="58" selection-end-line="11" selection-end-column="58" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/LinkedList/ReverseList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="682">
+              <caret line="32" column="14" lean-forward="true" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Point_to_offer/question1to10/Question1To10.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="975">
+              <caret line="75" column="41" lean-forward="true" selection-start-line="75" selection-start-column="41" selection-end-line="75" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sortAlgorithmic/QuickSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="772">
+              <caret line="37" column="36" lean-forward="true" selection-start-line="37" selection-start-column="36" selection-end-line="37" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sortAlgorithmic/MergeSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/sortAlgorithmic/HeapSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -188,9 +176,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Point_to_offer/question41to50/Question42.java" />
-        <option value="$PROJECT_DIR$/src/Point_to_offer/question41to50/Question44.java" />
-        <option value="$PROJECT_DIR$/src/Point_to_offer/question41to50/Question45.java" />
         <option value="$PROJECT_DIR$/src/Point_to_offer/question41to50/Question46.java" />
         <option value="$PROJECT_DIR$/src/Point_to_offer/question41to50/Question47.java" />
         <option value="$PROJECT_DIR$/src/Point_to_offer/question41to50/Question49.java" />
@@ -239,6 +224,9 @@
         <option value="$PROJECT_DIR$/src/tree/Student.java" />
         <option value="$PROJECT_DIR$/src/FindFiles.java" />
         <option value="$PROJECT_DIR$/src/tree/ZLevelOrder.java" />
+        <option value="$PROJECT_DIR$/src/LinkedList/ReverseList.java" />
+        <option value="$PROJECT_DIR$/src/sortAlgorithmic/MergeSort.java" />
+        <option value="$PROJECT_DIR$/src/sortAlgorithmic/HeapSort.java" />
       </list>
     </option>
   </component>
@@ -293,13 +281,7 @@
               <item name="Algorithmic_practice" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithmic_practice" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="designMoudle" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithmic_practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithmic_practice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="IO" type="462c0819:PsiDirectoryNode" />
+              <item name="LinkedList" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Algorithmic_practice" type="b2602c69:ProjectViewProjectNode" />
@@ -313,6 +295,12 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Point_to_offer" type="462c0819:PsiDirectoryNode" />
               <item name="question1to10" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithmic_practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithmic_practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sortAlgorithmic" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Algorithmic_practice" type="b2602c69:ProjectViewProjectNode" />
@@ -462,7 +450,7 @@
       <workItem from="1565105693057" duration="43827000" />
       <workItem from="1566216307408" duration="3232000" />
       <workItem from="1566572706853" duration="16019000" />
-      <workItem from="1567428168261" duration="71727000" />
+      <workItem from="1567428168261" duration="81026000" />
     </task>
     <task id="LOCAL-00001" summary="剑指offer Java实现 不定时更新">
       <created>1562810711569</created>
@@ -548,7 +536,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568304471791</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="剑指offer Java实现 不定时更新">
+      <created>1568393288252</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1568393288252</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -584,7 +579,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="381470000" />
+    <option name="totallyTimeSpent" value="390769000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -706,50 +701,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/sortAlgorithmic/SelectSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sortAlgorithmic/ShellSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sortAlgorithmic/InsertSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="24" column="72" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/trafficStatistics/TrafficStatistics.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#260#261#0" expanded="true" />
-            <element signature="e#321#322#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/Objects.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="57" column="26" selection-start-line="57" selection-start-column="26" selection-end-line="57" selection-end-column="26" />
-          <folding>
-            <element signature="e#1410#1411#0" expanded="true" />
-            <element signature="e#1471#1472#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/RegExpTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -805,13 +756,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sortAlgorithmic/QuickSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="900">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="523">
@@ -853,13 +797,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="625">
           <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Point_to_offer/question1to10/Question1To10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -1095,18 +1032,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/tree/LevelOrder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="700">
-          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
-          <folding>
-            <element signature="e#389#404#0" expanded="true" />
-            <element signature="e#459#469#0" expanded="true" />
-            <element signature="e#642#651#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/tree/DepthOfTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="550">
@@ -1143,14 +1068,72 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/tree/ZLevelOrder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="45" selection-start-line="2" selection-start-column="45" selection-end-line="2" selection-end-column="45" />
+        <state relative-caret-position="975">
+          <caret line="39" column="19" lean-forward="true" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
           <folding>
+            <element signature="imports" expanded="true" />
             <element signature="e#312#327#0" expanded="true" />
             <element signature="e#693#702#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tree/LevelOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="31" column="44" lean-forward="true" selection-start-line="31" selection-start-column="44" selection-end-line="31" selection-end-column="44" />
+          <folding>
+            <element signature="e#389#404#0" expanded="true" />
+            <element signature="e#459#469#0" expanded="true" />
+            <element signature="e#642#651#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkedList/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkedList/ReverseList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="32" column="14" lean-forward="true" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Point_to_offer/question1to10/Question1To10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="975">
+          <caret line="75" column="41" lean-forward="true" selection-start-line="75" selection-start-column="41" selection-end-line="75" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sortAlgorithmic/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="772">
+          <caret line="37" column="36" lean-forward="true" selection-start-line="37" selection-start-column="36" selection-end-line="37" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sortAlgorithmic/MergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sortAlgorithmic/HeapSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
         </state>
       </provider>
     </entry>

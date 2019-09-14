@@ -1,6 +1,6 @@
 package Point_to_offer.question11to20;
 
-import Point_to_offer.question1to10.ListNode;
+import LinkedList.ListNode;
 
 /**
  * @author simba@onlying.cn

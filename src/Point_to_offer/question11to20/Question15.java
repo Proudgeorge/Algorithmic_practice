@@ -1,6 +1,6 @@
 package Point_to_offer.question11to20;
 
-import Point_to_offer.question1to10.ListNode;
+import LinkedList.ListNode;
 
 /**
  * 输入一个链表，输出该链表中倒数第k个结点

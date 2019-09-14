@@ -1,6 +1,6 @@
 package Point_to_offer.question31to40;
 
-import Point_to_offer.question1to10.ListNode;
+import LinkedList.ListNode;
 
 import java.util.Stack;
 
